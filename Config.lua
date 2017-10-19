@@ -1,13 +1,13 @@
 do
 local _ = {
-		TOKEN = 'TOKEN', 
-		PayIRKey = "", -- GET From https://Pay.IR
+		TOKEN = '436335797:AAGtiaLxMHRL2DkabsX6btAlEKcmcTdOI5A', 
+		PayIRKey = "4fa9e7b977a298dd964763016ef772ac", -- GET From https://Pay.IR
 		APITOKEN = "", -- GET From https://api.reloadlife.me/#Code
-		MainSudo = 0, -- Main SUDO
+		MainSudo = 342293523, -- Main SUDO
 		BotID = 0, -- CLI BOT ID
 		Sudo = {
-			0, -- SUDOS
-			0 -- API BOT ID
+			342293523, -- SUDOS
+			436335797 -- API BOT ID
 		},
 		Plugins = {
 			'Checker', -- MUST BE FIRST FOR SPEED :)
